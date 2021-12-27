@@ -1,0 +1,12 @@
+[
+  {
+    "java": 16,
+    "os": "windows-latest",
+    "run": "master"
+  },
+  {
+    "java": 16,
+    "os": "ubuntu-latest",
+    "run": "always"
+  }
+]
