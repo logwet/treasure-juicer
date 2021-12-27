@@ -4,6 +4,7 @@
   "package": "me.logwet.treasure_juicer.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "common.BiomeDefaultFeaturesMixin"
   ],
   "client": [
     "client.DebugScreenOverlayMixin"
